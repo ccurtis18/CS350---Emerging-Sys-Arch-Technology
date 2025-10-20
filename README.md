@@ -1,4 +1,4 @@
-# CS350---Emerging-Sys-Arch-Technology
+# CS350-Emerging-Sys-Arch-Technology
 
 The projects I completed in this course focused on developing a functional embedded system that could read temperature data, process it through a state machine, and display the results on an LCD screen. The goal was to simulate a smart thermostat system that could manage different temperature states and prepare for future integration with Wi-Fi or IoT functionality. This solved the problem of how to design and program a low-level system capable of reading, interpreting, and responding to environmental input in real time, while maintaining a structured and maintainable codebase.
 
